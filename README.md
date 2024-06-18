@@ -4,6 +4,11 @@
 
 # Dataset
 ## (1) ECG
+https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset
+
+
 ## (2) EEG _ TUF 신청 완료
 ![alt text](image.png)
 
