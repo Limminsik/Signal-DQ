@@ -4,7 +4,8 @@
 
 # Dataset
 ## (1) ECG
-## (2) EEG
+## (2) EEG _ TUF 신청 완료
+![alt text](image.png)
 
 # Quality managemented Data
 1. 품질관리 전 데이터 Model 적용

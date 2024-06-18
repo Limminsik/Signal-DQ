@@ -1,0 +1,54 @@
+[시그널 데이터 품질관리 방법론]
+
+
+0. 시그널 데이터 머신러닝 및 딥러닝 모델 탐색해서 데이터 넣기
+0. 시그널 데이터 다운로드
+
+1. 시그널 데이터 품질 평가 및 관리 방법론 & 인공지능 모델 적용 실증 연구
+	LYDUS 내용 -> 품질 평가 
+품질 관리 -> 품질 평가 -> 데이터 학습 -> 모델 적용(예측 및 분류)
+품질 관리나 평가에 attention / weight 개념 추가 ?
+
+
+
+[참고 문헌]
+- 품질
+Scaling and assessment of data quality
+https://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html
+
+ECG Signal Quality During Arrhythmia and Its Application to False Alarm Reduction
+https://ieeexplore.ieee.org/abstract/document/6412778
+
+ECG signal quality improvement techniques
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://pe.org.pl/articles/2013/4/60.pdf
+
+QRS detection based ECG quality assessment
+https://iopscience.iop.org/article/10.1088/0967-3334/33/9/1449/meta
+
+LYDUS
+https://lydus.org/project-detail.html?lang=ko&id=9d1af2a9-29fc-475f-9ab6-2c0f0d49f81a&open=true
+
+
+- 시그널 데이터 챗봇 먹이기
+Multimodal LLMs for Health Grounded in Individual-Specific Data
+https://scholar.google.com/scholar?start=10&q=signal+%2B+llm&hl=ko&as_sdt=0,5
+
+Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification
+https://arxiv.org/abs/2404.10757
+
+Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities
+https://arxiv.org/abs/2405.10825
+
+LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments
+https://arxiv.org/abs/2403.08337
+
+Detecting Misinformation with LLM-Predicted Credibility Signals and Weak Supervision
+https://arxiv.org/abs/2309.07601
+
+NExT-GPT: Any-to-Any Multimodal LLM
+https://arxiv.org/abs/2309.05519
+
+
+
+
+
