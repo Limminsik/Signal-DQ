@@ -12,6 +12,12 @@ https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset
 ## (2) EEG _ TUF 신청 완료
 ![alt text](image.png)
 
+## (3) MIT-BIH Arrhythmia DB
+https://www.physionet.org/content/mitdb/1.0.0/
+
+## (4) Brno Uni of Techonology OPEN ECG Quality DB
+https://physionet.org/content/butqdb/1.0.0/
+
 # Quality managemented Data
 1. 품질관리 전 데이터 Model 적용
 2. 품질관리 후 데이터 Model 적용
