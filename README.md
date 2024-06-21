@@ -16,7 +16,21 @@ https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset
 1. 품질관리 전 데이터 Model 적용
 2. 품질관리 후 데이터 Model 적용
 
-## Data Quality Management Method
+
+# CSV 형태의 Signal Data 품질 평가 및 관리
+# Signal 형태 Data 품질 평가 및 관리
+
+## Data Quality Management Method -> Modeling
+https://www.mdpi.com/1424-8220/23/4/2130
+https://www.sciencedirect.com/science/article/pii/S1746809422005341
+https://www.sciencedirect.com/science/article/pii/S1566253523001069
+https://www.sciencedirect.com/science/article/pii/S2667099223000191
+https://www.mdpi.com/2076-3417/13/3/1313
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822530
+https://iopscience.iop.org/article/10.1088/2057-1976/ace9e0/meta?casa_token=1LDfx8wS1zQAAAAA:JuKp0eGJ0ocK1sBvko3OCd0XxUt3n8RYMOpPl9hCsngdgfX4HtZGppRkbPEIyWNgvsK6f-uMxLkxVlDRse0rC9ezfXQsPg
+https://link.springer.com/article/10.1007/s10877-022-00948-5
+
+
 https://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html
 https://ieeexplore.ieee.org/abstract/document/6412778
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://pe.org.pl/articles/2013/4/60.pdf
