@@ -1,5 +1,8 @@
 # Signal-DQ
 
+### [연구 목적]
+데이터 품질관리 후 모델 성능 향상
+
 # Signal Data Quality Management & Assessment and Adjust AI Model
 
 # Dataset
@@ -26,7 +29,9 @@ https://physionet.org/content/butqdb/1.0.0/
 # CSV 형태의 Signal Data 품질 평가 및 관리
 # Signal 형태 Data 품질 평가 및 관리
 
-## Data Quality Management Method -> Modeling
+## Data Quality Management Method -> Modeling -> Attention / Weight 조정
+기존에 있는 많은 모델들 활용
+
 https://www.mdpi.com/1424-8220/23/4/2130
 https://www.sciencedirect.com/science/article/pii/S1746809422005341
 https://www.sciencedirect.com/science/article/pii/S1566253523001069
