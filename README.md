@@ -26,8 +26,13 @@ https://physionet.org/content/butqdb/1.0.0/
 2. 품질관리 후 데이터 Model 적용
 
 
+# Data Assessment Method 
+- 시각화
+
+
 # CSV 형태의 Signal Data 품질 평가 및 관리
 # Signal 형태 Data 품질 평가 및 관리
+
 
 ## Data Quality Management Method -> Modeling -> Attention / Weight 조정
 기존에 있는 많은 모델들 활용
