@@ -30,8 +30,14 @@ https://physionet.org/content/butqdb/1.0.0/
 - 시각화
 
 
-# CSV 형태의 Signal Data 품질 평가 및 관리
-# Signal 형태 Data 품질 평가 및 관리
+# Wavelet Transform
+https://m.blog.naver.com/PostView.nhn?blogId=matlablove&logNo=221229281729&proxyReferer=https:%2F%2Fwww.google.com%2F
+https://m.blog.naver.com/PostView.nhn?blogId=vmv-tech&logNo=220941821088&targetKeyword=&targetRecommendationCode=1
+
+https://m.blog.naver.com/dusrnwk/221799478508
+(1) Scaling
+(2) Shifting 
+![alt text](image-1.png)
 
 
 ## Data Quality Management Method -> Modeling -> Attention / Weight 조정
