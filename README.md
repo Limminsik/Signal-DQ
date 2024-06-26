@@ -5,6 +5,9 @@
 
 # Signal Data Quality Management & Assessment and Adjust AI Model
 
+1. Sensor Data Quality Review 
+2. Signal Data 강의 듣기
+
 # Dataset
 ## (1) ECG
 https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset
