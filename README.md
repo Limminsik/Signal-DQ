@@ -7,6 +7,12 @@
 
 1. Sensor Data Quality Review 
 2. Signal Data 강의 듣기
+RNN
+ANN
+BiRNN
+BiRNN_MM
+
+
 
 # Dataset
 ## (1) ECG
